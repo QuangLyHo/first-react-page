@@ -10,6 +10,7 @@ export default function Header() {
                     <li>About</li>
                     <li>Price</li>
                     <li>Contact</li>
+                    <li>finally</li>
                 </ul>
             </nav>
         </header>
